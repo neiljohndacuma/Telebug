@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Alumni",
-    "slug": "Alumni",
-    "scheme":"Alumni",
+    "name": "Tele-bug",
+    "slug": "Tele-bug",
+    "scheme":"Tele-bug",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
